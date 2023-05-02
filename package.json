@@ -1,0 +1,19 @@
+{
+  "name": "webdev-dom-homework",
+  "version": "1.0.0",
+  "description": "Комментарии",
+  "main": "script.js",
+  "scripts": {
+    "dev": "webpack --mode development --watch"
+  },
+  "author": "Kozharina",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "webpack": "^5.81.0",
+    "webpack-cli": "^5.0.2"
+  }
+}
